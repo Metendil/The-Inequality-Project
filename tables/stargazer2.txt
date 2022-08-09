@@ -1,0 +1,40 @@
+
+Results from standardized regression analysis
+==========================================================================
+                                        Dependent variable:               
+                          ------------------------------------------------
+                          Liberal Democracy Index      Democracy Index    
+                           Before tax   After tax  Before tax   After tax 
+                              (1)          (2)         (3)         (4)    
+--------------------------------------------------------------------------
+Gini Index before tax [1]   0.273***                0.246***              
+                           p = 0.0001              p = 0.0002             
+                                                                          
+Gini Index after tax [1]                 -0.041                  -0.038   
+                                        p = 0.522               p = 0.516 
+                                                                          
+GDP per capita [2]          0.319***    0.596***    0.342***    0.606***  
+                          p = 0.00001   p = 0.000  p = 0.00000  p = 0.000 
+                                                                          
+Natural resources [3]      -0.247***    -0.285***   -0.282***   -0.318*** 
+                          p = 0.00005  p = 0.0002  p = 0.00001 p = 0.00001
+                                                                          
+Socialism [4]              -0.209***    -0.158***   -0.221***   -0.169*** 
+                           p = 0.001    p = 0.007  p = 0.0002   p = 0.002 
+                                                                          
+Constant                     0.060       0.128**      0.067      0.114**  
+                           p = 0.305    p = 0.025   p = 0.229   p = 0.029 
+                                                                          
+--------------------------------------------------------------------------
+Observations                  158          147         155         142    
+R2                           0.456        0.516       0.508       0.591   
+Adjusted R2                  0.442        0.503       0.495       0.579   
+Residual Std. Error          0.729        0.675       0.687       0.609   
+F Statistic                32.124***    37.875***   38.683***   49.561*** 
+==========================================================================
+*p<0.1; **p<0.05; ***p<0.01                                               
+                                                                          
+[1] 0 = perfect inequality, 100 = perfect equality                        
+[2] In constant 2017 international dollars                                
+[3] Natural resources rents as percentage of GDP                          
+[4] Socialist regime in power for at least 60 years                       
